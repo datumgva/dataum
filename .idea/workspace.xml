@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67c0bebe-5191-4488-9261-2c2018593c5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/datum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_copy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/datum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kvOwQdD5YMDRKzSEJzgLt9lrxa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mick\PycharmProjects\datum\img" />
+      <recent name="C:\Users\mick\PycharmProjects\datum\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mick\PycharmProjects\datum" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mick\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67c0bebe-5191-4488-9261-2c2018593c5f" name="Default Changelist" comment="" />
+      <created>1606577836608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606577836608</updated>
+      <workItem from="1606577840284" duration="909000" />
+      <workItem from="1606578805713" duration="1507000" />
+      <workItem from="1606580337579" duration="1104000" />
+      <workItem from="1606628538087" duration="2128000" />
+      <workItem from="1606675129510" duration="1299000" />
+      <workItem from="1606717458040" duration="3520000" />
+      <workItem from="1606733375003" duration="7571000" />
+      <workItem from="1606746870734" duration="1289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1606747830416">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606747830416" />
+    <state x="561" y="267" key="Github.ShareDialog" timestamp="1606580732528">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="561" y="267" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1606580732528" />
+    <state x="500" y="74" key="Github.UntrackedFilesDialog" timestamp="1606580739935">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="74" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1606580739935" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1606747816252">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606747816252" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1606747862858">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606747862858" />
+  </component>
+</project>
